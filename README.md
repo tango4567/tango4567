@@ -6,9 +6,6 @@
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tango4567&langs_count=3&hide=javascript,go,html,css,tex)
 ![trophy](https://github-profile-trophy.vercel.app/?username=tango4567&theme=onedark)
 
-
-
-
 ![](https://komarev.com/ghpvc/?username=tango4567)
 
 <!--
